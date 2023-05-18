@@ -1,0 +1,28 @@
+.user-dash-navbar{
+    width: 6%;
+    height: 100vh;
+    background-color: #181818;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border-radius: 0px 15px 15px 0px;
+}
+.user-nav{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 6%;
+}
+.nav-logo{
+    width: 70%;
+    margin-top: 20%;
+    margin-bottom: 40%;
+}
+
+/* .active{
+    background-color: #d1e11f;
+  } */
